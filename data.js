@@ -30,16 +30,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.8203847103397202,
-          "pitch": 0.23197760046697802,
-          "rotation": 0.7853981633974483,
-          "target": "1-cama"
-        },
-        {
-          "yaw": 0.11715192671745456,
-          "pitch": 0.1746312474002707,
+          "yaw": 0.8552256770054978,
+          "pitch": 0.042919264265826484,
           "rotation": 5.497787143782138,
           "target": "2-bao"
+        },
+        {
+          "yaw": 1.7298346641560114,
+          "pitch": 0.2684563711190897,
+          "rotation": 0.7853981633974483,
+          "target": "1-cama"
         }
       ],
       "infoHotspots": []
@@ -74,15 +74,15 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.8966203887793451,
-          "pitch": 0.1018182294862946,
+          "yaw": -1.1774690379299795,
+          "pitch": 0.0040397639743865454,
           "rotation": 0.7853981633974483,
           "target": "2-bao"
         },
         {
-          "yaw": -3.0801638240279647,
-          "pitch": 0.1078034364109044,
-          "rotation": 0,
+          "yaw": -2.7672841065142446,
+          "pitch": 0.24710293055484378,
+          "rotation": 5.497787143782138,
           "target": "0-entrada"
         }
       ],
@@ -118,8 +118,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -2.2318518094292887,
-          "pitch": 0.10966916653121928,
+          "yaw": -1.5673541462812057,
+          "pitch": 0.046741923567303445,
           "rotation": 5.497787143782138,
           "target": "0-entrada"
         }
@@ -127,7 +127,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "LIVING 35 Apto S",
+  "name": "LIVING 35 - S",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
